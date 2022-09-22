@@ -37,3 +37,8 @@ Ancak Single Responsibiliy prensibi classlarla ilgilenirken Interface Segregatio
 
 5. (D)ependency Inversion Principle
 
+Bu prensipte ise Email ve Sms sınıflarının içinde iletiler bulunmaktadır.Bu iletileri Notifications sınıfını kullanarak bildirim halinde gönderiyorum.
+Aynı zamanda bu iletilerin mesaj olarak gitmesini de sağlamak istiyorum.Bunun içinde message adında yeni bir sınıf oluşturdum.Email ve Sms özelliklerini
+ana sınıf olan Notifications sınıfını etkilemeden ve üst sınıfın alt sınıfa bağımlı olmamasını sağlamak adına message sınıfını Email ve Sms sınıflarına 
+override edip ana sınıf olan Notifications sınıfında değişiklik yapmadan türettiğimiz mesaj özelliğini ana dizindaki main sınıfında kullanabildik.
+
