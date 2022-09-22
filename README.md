@@ -31,5 +31,9 @@ alt sınıf, üst sınıf olan Vehicle sınıfının özelliklerini de kullanmı
 
 4. (I)nterface Segregation Principle
 
+"Arayüz Ayırımı" tabiriyle tanımladığımız prensipte ise tanımladığım araç sınıflarına Vehicle sınıfından gerekenden fazla metot ve değişken eklemek
+yerine, yeni bir özelliştirilmiş interface oluşturdum.Bu prensip Single Responsibility prensibiyle oldukça benzer ve aynı amaca hizmet etmektedirler.
+Ancak Single Responsibiliy prensibi classlarla ilgilenirken Interface Segregation prensibi interface' ler ile ilgilenmektedir.
+
 5. (D)ependency Inversion Principle
 
