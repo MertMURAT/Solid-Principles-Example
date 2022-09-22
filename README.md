@@ -23,6 +23,12 @@ araçların fiyatlarını güncelledim.
 
 3. (L)iskov ‘s Substitution Principle
 
+Liskov ikame prensibi olarakta adlandırılan bu prensipte ise başlangıçta Bus ve Car adında iki adet sınıf tanımlayıp sınıfları
+Vehicle sınıfından kendi araç tipine has olan özellikleri override edilerek almalarını sağladım. Bu yapıya yeni araçlar ve yeni özellikler
+eklemek istiyorum.Bu yüzden Bike adında bir araç sınıfı oluşturdum fakat özellik eklemek istediğim Bike aracını ve diğer araçları üst sınıf olan 
+Vehicle sınıfını ve alt sınıf olan araç sınıflarının kodlarını değiştirmeden motorlu ve motorsuz olarak iki kategoriye ayırarak türettiğim iki 
+alt sınıf, üst sınıf olan Vehicle sınıfının özelliklerini de kullanmış oldu ve kendine has özellikleri de kolayca tanımlayabildi.
+
 4. (I)nterface Segregation Principle
 
 5. (D)ependency Inversion Principle
