@@ -1,5 +1,4 @@
 # Solid-Principles-Assignment
-Etstur 1. Hafta
 
  Solid Prensipleri
 
