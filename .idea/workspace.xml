@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e9f958-8ee4-4265-adef-e1a07b2ec64e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SOLİD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/dependencyinversion/principle/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/dependencyinversion/principle/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/dependencyinversion/principle/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/dependencyinversion/principle/Sms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/interfacesegregation/principle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/interfacesegregation/principle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/interfacesegregation/principle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/interfacesegregation/principle/VehicleWithoutDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/liskovsubstitution/principle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/liskovsubstitution/principle/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/liskovsubstitution/principle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/liskovsubstitution/principle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/liskovsubstitution/principle/VehicleWithoutEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/liskovsubstitution/principle/VehiclesWithEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/openclosed/principle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/openclosed/principle/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/openclosed/principle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/openclosed/principle/VehicleCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/singleresponsibility/principle/DBOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLİD/singleresponsibility/principle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencyinversion/principle/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencyinversion/principle/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencyinversion/principle/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencyinversion/principle/Sms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfacesegregation/principle/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfacesegregation/principle/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfacesegregation/principle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfacesegregation/principle/VehicleWithoutDoor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liskovsubstitution/principle/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liskovsubstitution/principle/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liskovsubstitution/principle/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liskovsubstitution/principle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liskovsubstitution/principle/VehicleWithoutEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liskovsubstitution/principle/VehiclesWithEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openclosed/principle/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openclosed/principle/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openclosed/principle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openclosed/principle/VehicleCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleresponsibility/principle/DBOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleresponsibility/principle/Vehicle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GiiH1ORZMVPL41JUCI1ETb9iHx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Solid-Principles-Example-Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Solid-Principles-Example-Assignment" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e9f958-8ee4-4265-adef-e1a07b2ec64e" name="Changes" comment="" />
+      <created>1666877724731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666877724731</updated>
+      <workItem from="1666877728279" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
