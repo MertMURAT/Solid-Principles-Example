@@ -1,7 +1,5 @@
 # Solid-Principles-Assignment
 
-# Solid Prensipleri
-
 # 1. (S)ingle Responsibility Principle
 
 Her sınıfın ve her methodun kendine ait bir işi ve sorumluluğu olmalı prensibinden yola çıkarak
